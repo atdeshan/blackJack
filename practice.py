@@ -1,0 +1,1 @@
+print(f"enter the word {"nk"}")
